@@ -1,2 +1,4 @@
-# OSlab1\
+# OSlab1
+![laba1]
+![laba11]
 
