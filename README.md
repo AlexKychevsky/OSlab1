@@ -1,4 +1,4 @@
 # OSlab1
-![laba1]
-![laba11]
+![laba1.png]
+![laba11.png]
 
