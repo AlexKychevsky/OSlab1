@@ -1,4 +1,4 @@
 # OSlab1
-![laba1.png]
-![laba11.png]
+![alt text](https://github.com/AlexKychevsky/OSlab1/blob/master/laba1.png)
+![alt text](https://github.com/AlexKychevsky/OSlab1/blob/master/laba11.png)
 
